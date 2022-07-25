@@ -3,6 +3,11 @@
 	"features": [
 		{
 			"type": "Feature",
+			"properties": {
+				"ID_": "ASITUR002001003",
+				"NAME1_": "Kirklareli",
+				"NAME2_": "Kırklareli"
+			},
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [
@@ -1421,6 +1426,11 @@
 		},
 		{
 			"type": "Feature",
+			"properties": {
+				"ID_": "ASITUR008002003",
+				"NAME1_": "Sinop",
+				"NAME2_": "Sinop"
+			},
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [
