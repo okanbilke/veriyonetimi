@@ -2270,7 +2270,14 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Kastamonu"
+				"ID_": "ASITUR008002001",
+				"NAME1_": "Kastamonu",
+				"NAME2_": "Kastamonu",
+				"PARTS_": 1,
+				"POINTS_": 213,
+				"LENGTH_": 367.3627,
+				"AREA_": 5469.897,
+				"UST_KURUM": "B080000"
 			},
 			"geometry": {
 				"type": "Polygon",
