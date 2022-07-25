@@ -7,19 +7,39 @@
 				"marker-color": "#7e7e7e",
 				"marker-size": "medium",
 				"marker-symbol": "",
-				"ID": "1296",
-				"KOOP": "K012360",
+				"ID": "1003",
+				"KOOP": "K012117",
 				"IL": "Tekirdağ",
-				"KURUMAD": "MAHRAMLI",
+				"KURUMAD": "ORTACA (2117)",
 				"USTKURUM": "B010000"
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					27.200028,
-					40.933417
+					27.244444,
+					41.081694
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#7e7e7e",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"ID": "861",
+				"KOOP": "K010716",
+				"IL": "Tekirdağ",
+				"KURUMAD": "BARBAROS (0716)",
+				"USTKURUM": "B010000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.500556,
+					40.963611
 				]
 			}
 		}
-		]
+	]
 }
