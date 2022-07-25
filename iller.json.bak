@@ -7,9 +7,6 @@
 				"ID_": "ASITUR002001003",
 				"NAME1_": "Kirklareli",
 				"NAME2_": "Kırklareli",
-				"POINTS_": 356,
-				"LENGTH_": 280.8056,
-				"AREA_": 2977.018,
 				"UST_KURUM": "B010000"
 			},
 			"geometry": {
@@ -1434,9 +1431,6 @@
 				"ID_": "ASITUR008002003",
 				"NAME1_": "Sinop",
 				"NAME2_": "Sinop",
-				"POINTS_": 215,
-				"LENGTH_": 277.532,
-				"AREA_": 2222.687,
 				"UST_KURUM": "B110000"
 			},
 			"geometry": {
