@@ -1421,16 +1421,6 @@
 		},
 		{
 			"type": "Feature",
-			"properties": {
-				"ID_": "ASITUR008002003",
-				"NAME1_": "Sinop",
-				"NAME2_": "Sinop",
-				"PARTS_": 1,
-				"POINTS_": 215,
-				"LENGTH_": 277.532,
-				"AREA_": 2222.687,
-				"UST_KURUM": "B110000"
-			},
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [
