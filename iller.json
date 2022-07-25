@@ -6,7 +6,12 @@
 			"properties": {
 				"ID_": "ASITUR002001003",
 				"NAME1_": "asd",
-				"NAME2_": "basd"
+				"NAME2_": "asd",
+				"PARTS_": 1,
+				"POINTS_": 356,
+				"LENGTH_": 280.8056,
+				"AREA_": 2977.018,
+				"UST_KURUM": "B010000"
 			},
 			"geometry": {
 				"type": "Polygon",
