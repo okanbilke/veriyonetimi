@@ -32665,14 +32665,12 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID_": "ASITUR002001003",
-				"NAME1_": "Kirklareli",
-				"NAME2_": "Kırklareli",
-				"PARTS_": 1,
-				"POINTS_": 356,
-				"LENGTH_": 280.8056,
-				"AREA_": 2977.018,
-				"UST_KURUM": "B010000"
+				"marker-color": "#7e7e7e",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"ID": "256123213213",
+				"IL": "Kırklareli",
+				"USTKURUM": "B010000"
 			},
 			"geometry": {
 				"type": "Polygon",
