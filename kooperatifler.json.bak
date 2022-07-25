@@ -38,14 +38,9 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID_": "ASITUR002001001",
-				"NAME1_": "Tekirdag",
-				"NAME2_": "Tekirdağ",
-				"PARTS_": 1,
-				"POINTS_": 170,
-				"LENGTH_": 4.782521,
-				"AREA_": 0.5800637,
-				"UST_KURUM": "B010000"
+				"ID": "862",
+				"IL": "Tekirdağ",
+				"USTKURUM": "B010000"
 			},
 			"geometry": {
 				"type": "Polygon",
