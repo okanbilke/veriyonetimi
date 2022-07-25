@@ -5,7 +5,6 @@
 			"type": "Feature",
 			"properties": {
 				"ID_": "ASITUR002001003",
-				"NAME2_": "Kırklareli",
 				"UST_KURUM": "B010000"
 			},
 			"geometry": {
@@ -1428,7 +1427,6 @@
 			"type": "Feature",
 			"properties": {
 				"ID_": "ASITUR008002003",
-				"NAME2_": "Sinop",
 				"UST_KURUM": "B110000"
 			},
 			"geometry": {
