@@ -4,9 +4,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"marker-color": "#7e7e7e",
-				"marker-size": "medium",
-				"marker-symbol": "",
 				"ID": "1003",
 				"KOOP": "K012117",
 				"IL": "Tekirdağ",
@@ -24,9 +21,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"marker-color": "#ff0000",
-				"marker-size": "medium",
-				"marker-symbol": "",
 				"ID": "861",
 				"KOOP": "K010716",
 				"IL": "Tekirdağ",
