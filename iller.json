@@ -4,7 +4,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID_": "ASITUR002001003",
 				"NAME1_": "Kirklareli",
 				"NAME2_": "Kırklareli",
 				"PARTS_": 1,
@@ -1432,7 +1431,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID_": "ASITUR008002003",
 				"NAME1_": "Sinop",
 				"NAME2_": "Sinop",
 				"PARTS_": 1,
