@@ -6,7 +6,7 @@
 			"properties": {
 				"ID_": "ASITUR002001003",
 				"NAME1_": "Kirklareli",
-				"NAME2_": "Kırklareli",
+				"NAME2_": "Kırklareli"
 			},
 			"geometry": {
 				"type": "Polygon",
