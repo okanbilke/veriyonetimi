@@ -5,7 +5,6 @@
 			"type": "Feature",
 			"properties": {
 				"ID": "1003",
-				"KOOP": "K012117",
 				"IL": "Tekirdağ",
 				"USTKURUM": "B010000"
 			},
@@ -21,7 +20,6 @@
 			"type": "Feature",
 			"properties": {
 				"ID": "861",
-				"KOOP": "K010716",
 				"IL": "Tekirdağ",
 				"USTKURUM": "B010000"
 			},
