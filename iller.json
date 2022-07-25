@@ -4,8 +4,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"NAME1_": "Kirklareli",
-				"NAME2_": "Kırklareli"
+				"name": "Kırklareli"
 			},
 			"geometry": {
 				"type": "Polygon",
