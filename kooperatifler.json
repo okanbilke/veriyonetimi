@@ -22,7 +22,9 @@
 			"type": "Feature",
 			"properties": {
 				"ID": "861",
+				"KOOP": "K010716",
 				"IL": "Tekirdağ",
+				"KURUMAD": "BARBAROS (0716)",
 				"USTKURUM": "B010000"
 			},
 			"geometry": {

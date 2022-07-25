@@ -5,7 +5,9 @@
 			"type": "Feature",
 			"properties": {
 				"ID": "1003",
+				"KOOP": "K012117",
 				"IL": "Tekirdağ",
+				"KURUMAD": "ORTACA (2117)",
 				"USTKURUM": "B010000"
 			},
 			"geometry": {
