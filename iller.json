@@ -6,11 +6,7 @@
 			"properties": {
 				"ID_": "ASITUR002001003",
 				"NAME1_": "Kirklareli",
-				"NAME2_": "Kırklareli",
-				"PARTS_": 1,
-				"POINTS_": 356,
-				"LENGTH_": 280.8056,
-				"AREA_": 2977.018
+				"NAME2_": "Kırklareli"
 			},
 			"geometry": {
 				"type": "Polygon",
